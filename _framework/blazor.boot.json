@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Entregable8",
   "resources": {
-    "hash": "sha256-JiqivAalE9uPYzn2oAaSozq7zkAyDV81n4w+dAfA+8g=",
+    "hash": "sha256-8YtyFIkimReRfVGQfe55QrwSYcQOnvujTqJgXY6kNFk=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.l5bze06whq.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Entregable8.wasm": "sha256-ZLqptlWtHoWknpxgnPoaxN6ZdrTu7Ho/12LuWRjq2fM=",
+      "Entregable8.wasm": "sha256-yLe5fikGBZ8DSNaXaY/UWIx7vT3Y756Zdv++t2WweRM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-afyz33zoCLLxq241evZ767nYL5c/TrB5RNSkNBD2D+s=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-DUvpzktySFpUWNVEp87C8FbAJYUD6qHu7a6hL+tBSl4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-kZSJV9ON9UL924dyAnAeoFHZXExv5A/OCxTHlMc+3fQ=",
